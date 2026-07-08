@@ -12,7 +12,7 @@
 //     }
 //     else cout<<"long long"<<endl;
 // }
-                //مسـأله بنت كلب برضو 
+                //مسـأله عقيمة برضو 
 
                 // مكتبة <climits>
                 //else if(multiply/a<=INT_MAX)
